@@ -1,0 +1,15 @@
+obj
+bin
+deploy
+deploy/*
+*.user
+*.suo
+*.cache
+*.bak
+*.ncb
+*.log
+*.DS_Store
+[Tt]humbs.db
+_ReSharper.*
+*.resharper
+Ankh.NoLoad
